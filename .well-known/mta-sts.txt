@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: smtp.node4web.at
+mx: mailbox.node4web.at
+max_age: 86400
